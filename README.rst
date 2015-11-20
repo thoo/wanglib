@@ -44,7 +44,7 @@ Installation
 There are no versioned releases of ``wanglib`` - only a development
 version that changes all the time. Install this with ``pip``::
 
-    $ pip install --user -e git+https://github.com/baldwint/wanglib.git#egg=wanglib
+    $ pip install --user -e git+https://github.com/thoo/wanglib.git#egg=wanglib
 
 The ``--user`` flag is a good idea to prevent version conflicts with other
 users on the same machine.
