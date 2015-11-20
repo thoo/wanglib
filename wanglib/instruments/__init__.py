@@ -95,4 +95,5 @@ computer.
 from spex750m import spex750m, triax320
 from lockins import egg5110, srs830
 from signal_generators import ag8648
+from lasers import velocity6300
 
